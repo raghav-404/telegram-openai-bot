@@ -1,6 +1,6 @@
-# 🤖 Telegram + OpenAI Bot (n8n Workflow)
+# 🤖 Telegram OpenAI Bot (n8n Workflow)
 
-Welcome to the **Telegram OpenAI Bot**, a powerful and easy-to-deploy chatbot powered by **OpenAI GPT-4.1-mini** and managed through the visual automation tool **n8n**.
+A powerful and easy-to-deploy chatbot powered by **OpenAI GPT-4.1-mini** and managed through the visual automation tool **n8n**.
 
 > 🚀 This workflow allows you to connect Telegram and OpenAI in a seamless conversation loop using no-code!
 
